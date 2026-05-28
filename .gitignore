@@ -1,0 +1,21 @@
+# Godot 4
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+
+# Imported resources
+*.import
+
+# Builds / exports
+/builds/
+*.exe
+*.apk
+*.aab
+*.x86_64
+*.zip
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
