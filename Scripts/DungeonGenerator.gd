@@ -1,3 +1,4 @@
+#Followed tutorial from Youtuber Queble. 
 @tool
 extends Node
 class_name DungeonGenerator
